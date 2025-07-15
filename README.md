@@ -43,6 +43,7 @@ This project involves deep exploratory data analysis and business insights gener
 - `script.py` – main script
 - `Online_Retail.csv` – dataset
 - All plots displayed using `matplotlib.pyplot.show()`
+- `visuals` -- Visualizations
 
 ---
 
